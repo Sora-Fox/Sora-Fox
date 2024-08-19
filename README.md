@@ -11,7 +11,8 @@
 -->
 
 <h2>🔧 Technologies & Tools</h2>
-<p>Here are some of the technologies I'm exploring:</p>
+<p>Here are some of the technologies and tools I'm exploring:</p>
+<!--
 <ul>
     <li> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="Custom Emoji" width="15" height="17" /> C++</li>
     <li> <img src="https://upload.wikimedia.org/wikipedia/commons/archive/c/c3/20220821155028%21Python-logo-notext.svg" alt="Custom Emoji" width="16" height="16" /> Python</li>
@@ -20,5 +21,21 @@
     <li> <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg" alt="Custom Emoji" width="16" height="16" /> CMake</li>
     <li> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Custom Emoji" width="16" height="16" /> Git & GitHub</li>
 </ul>
-
-
+-->
+<p align="left">
+	<!-- C++ --->
+	<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="36" height="36" alt="C++" /></a>
+	<!-- Python --->
+	<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/archive/c/c3/20220821155028%21Python-logo-notext.svg" width="36" height="36" alt="Python" /></a>
+	<!-- Git --->
+	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+	<!-- PostgreSQL --->
+	<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" width="36" height="36" alt="PostgreSQL" /></a>
+	<!-- CMake --->
+	<a href="https://cmake.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg" width="36" height="36" alt="CMake" /></a>
+	<!-- Linux --->
+	<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="36" height="36" alt="Linux" /></a>
+	<!-- Vim --->
+	<a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" width="36" height="36" alt="Vim" /></a>
+</p>
+                    
